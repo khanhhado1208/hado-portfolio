@@ -35,7 +35,7 @@ const Home = () => {
       </div>
       
       <div className="flex items-start">
-        <img src="/src/assets/photos/Ha.png" alt="HaDo" style={{ width: '600px', height: '800px' }} />
+      <img src="https://raw.githubusercontent.com/khanhhado1208/hado-portfolio/main/src/assets/photos/Ha.png" alt="HaDo" style={{ width: '600px', height: '800px' }} />
       </div>
     </section>
   );

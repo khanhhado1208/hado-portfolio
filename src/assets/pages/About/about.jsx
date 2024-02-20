@@ -31,7 +31,7 @@ const About = () => {
           className='rotate-360 cursor-pointer w-1/5' 
           style={{ transform: `rotate(${rotation}deg)` }}
         >
-          <img src="/src/assets/photos/robot.png" alt="robot" style={{ width: '900px', height: '500px' }}/>
+          <img src="https://raw.githubusercontent.com/khanhhado1208/hado-portfolio/main/src/assets/photos/robot.png" alt="robot" style={{ width: '900px', height: '500px' }}/>
         </div>
       </div>
     </section>
